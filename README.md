@@ -1,4 +1,4 @@
-#React, Redux Toolkit, Query, Mutations and Slice
+# React, Redux Toolkit, Query, Mutations and Slice
 
 ```
 npm install
@@ -12,8 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Notes to me:
-
----
 
 https://www.npmjs.com/package/json-server
 
