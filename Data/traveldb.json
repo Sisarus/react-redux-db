@@ -23,36 +23,6 @@
       "city": "kissa",
       "country": "koira",
       "daysNeeded": 7
-    },
-    {
-      "id": 12,
-      "city": "Ihoo",
-      "country": "Koira",
-      "daysNeeded": 10
-    },
-    {
-      "id": 99,
-      "city": "Tussi",
-      "country": "Pussi",
-      "daysNeeded": 9
-    },
-    {
-      "id": 33,
-      "city": "bb",
-      "country": "bb",
-      "daysNeeded": 5
-    },
-    {
-      "id": 90,
-      "city": "ff",
-      "country": "ff",
-      "daysNeeded": 9
-    },
-    {
-      "id": 51,
-      "city": "ff",
-      "country": "ff",
-      "daysNeeded": 5
     }
   ]
 }
