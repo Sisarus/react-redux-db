@@ -1,4 +1,4 @@
-#React, Redux Toolkit, Query, Mutations and Slice
+# React, Redux Toolkit, Query, Mutations and Slice
 
 ```
 npm install
