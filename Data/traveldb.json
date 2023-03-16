@@ -1,12 +1,6 @@
 {
   "destination": [
     {
-      "id": 1,
-      "city": "New York",
-      "country": "USA",
-      "daysNeeded": 3
-    },
-    {
       "id": 2,
       "city": "Chicago",
       "country": "USA",
