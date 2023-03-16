@@ -13,8 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Notes to me:
 
----
-
 https://www.npmjs.com/package/json-server
 
 Start JSON server in Git Bash:
