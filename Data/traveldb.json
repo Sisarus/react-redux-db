@@ -1,22 +1,21 @@
 {
   "destination": [
     {
-      "id": 2,
-      "city": "Chicago",
-      "country": "USA",
+      "id": 89,
+      "city": "Nippon",
+      "country": "Maatiainen"
+    },
+    {
+      "id": 64,
+      "city": "Suurta",
+      "country": "Maata",
+      "daysNeeded": 3
+    },
+    {
+      "id": 86,
+      "city": "Kili",
+      "country": "Ista",
       "daysNeeded": 5
-    },
-    {
-      "id": 61,
-      "city": "test",
-      "country": "count",
-      "daysNeeded": 1
-    },
-    {
-      "id": 94,
-      "city": "kissa",
-      "country": "koira",
-      "daysNeeded": 7
     }
   ]
 }
