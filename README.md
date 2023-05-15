@@ -6,7 +6,6 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Project Links](#project-links)
-* [Features](#features)
 * [Project Status](#project-status)
 
 ## General info
@@ -39,14 +38,6 @@ Read more about [JSON SERVER](https://www.npmjs.com/package/json-server)
 ## Project Links
 
 * Opens to [localhost](http://localhost:3000/)
-
-## Features
-List the ready features here:
-
- * Find all notes
- * Add note
- * Get note
- * Delete note
 
 ## Project Status
 Project is: in progress
