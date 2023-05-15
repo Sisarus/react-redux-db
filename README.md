@@ -22,18 +22,18 @@ Project is created with:
 To run this project, install it locally using npm:
 ```
 git clone https://github.com/Sisarus/react-redux-db.git
-cd .\react-redux-db\
+```
+
+Open project folder:
+```
 npm install
 npm run dev
 ```
-
-Start JSON server in Git Bash:
+Start JSON server same folder in Git Bash:
 ```
 json-server --watch data/traveldb.json --port 5001
 ```
-
-http://localhost:5001/destination
-
+[Open JSON-SERVER](http://localhost:5001/destination)
 Read more about [JSON SERVER](https://www.npmjs.com/package/json-server)
 
 ## Project Links
