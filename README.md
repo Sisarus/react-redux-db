@@ -14,9 +14,9 @@ React, Redux Toolkit, Query, Mutations and Slice
 
 ## Technologies
 Project is created with:
-* [Node.js](https://nodejs.org/en)
-* [Express](https://expressjs.com/)
-     - [Cors](https://expressjs.com/en/resources/middleware/cors.html)
+* [React](https://react.dev/)
+* [Redux](https://redux.js.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Setup
 To run this project, install it locally using npm:
@@ -24,12 +24,12 @@ To run this project, install it locally using npm:
 git clone https://github.com/Sisarus/react-redux-db.git
 ```
 
-Open project folder:
+Open project folder and run terminal:
 ```
 npm install
 npm run dev
 ```
-Start JSON server same folder in Git Bash:
+New terminal Start JSON server same folder in Git Bash:
 ```
 json-server --watch data/traveldb.json --port 5001
 ```
@@ -38,5 +38,17 @@ Read more about [JSON SERVER](https://www.npmjs.com/package/json-server)
 
 ## Project Links
 
-* Opens to [localhost](http://localhost:3001/api/notes)
+* Opens to [localhost](http://localhost:3000/)
 
+## Features
+List the ready features here:
+
+ * Find all notes
+ * Add note
+ * Get note
+ * Delete note
+
+## Project Status
+Project is: in progress
+
+<!--complete / no longer being worked on. If you are no longer working on it, provide reasons why. -->
