@@ -1,11 +1,30 @@
 # React, Redux Toolkit, Query, Mutations and Slice
 
-```
-npm install
-```
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Project Links](#project-links)
+* [Features](#features)
+* [Project Status](#project-status)
+
+## General info
+React, Redux Toolkit, Query, Mutations and Slice
+
+## Technologies
+Project is created with:
+* [Node.js](https://nodejs.org/en)
+* [Express](https://expressjs.com/)
+     - [Cors](https://expressjs.com/en/resources/middleware/cors.html)
+
+## Setup
+To run this project, install it locally using npm:
 ```
-npm start
+git clone https://github.com/Sisarus/react-redux-db.git
+cd .\react-redux-db\
+npm install
+npm run dev
 ```
 
 Runs the app in the development mode.\
