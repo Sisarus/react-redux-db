@@ -1,6 +1,5 @@
 # React, Redux Toolkit, Query, Mutations and Slice
 
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
